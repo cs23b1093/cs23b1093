@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **cs23b1093**
+# 👋 Hi, I'm **Amit Sharma**
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F79D&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things;Turning+Ideas+into+Reality" alt="Typing Animation" />
